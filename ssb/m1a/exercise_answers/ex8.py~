@@ -1,0 +1,7 @@
+
+
+# a) Write a script that opens a text file and prints the contents to screen (use the with statement). You can use the entamoeba.txt file for this exercise available on the Exercise Answers page.
+
+# Try using the various options to read the contents of the file.
+
+# b) Modify the script to write the contents of a file to a second file. Do this twice, the first time as an exact copy and the second removing all of the newlines.
